@@ -183,3 +183,6 @@ footer {
     font-size: .8em;
     padding-top: 1em;
 }
+p.center {
+    padding: 0;
+}
